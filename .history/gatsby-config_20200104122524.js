@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: `Todd P.`,
 
-    siteTitleAlt: `Mah Blog!`,
+    siteTitleAlt: `Mah Blog`,
     navigation: [
       {
         title: `Blog`,
