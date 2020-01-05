@@ -25,7 +25,7 @@ const Title = ({ text, children, as = `h2`, className }: TitleProps) => (
       display: `flex`,
     }}
   >
-    <Heading as={as} sx={{ fontWeight: `medium`, fontSize: [4, 5], fontFamily: `heading` }} className={className}>
+    <Heading as={as} sx={{ fontWeight: `medium`, fontSize: [, 4], fontFamily: `heading` }} className={className}>
       {text}
     </Heading>
     <div

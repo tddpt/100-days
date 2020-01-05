@@ -19,13 +19,13 @@ const Title = ({ text, children, as = `h2`, className }: TitleProps) => (
       borderBottomWidth: `1px`,
       borderBottomColor: `divide`,
       pb: 4,
-      mb: 5,
+      mb: 4,
       flexFlow: `wrap`,
       boxSizing: `border-box`,
       display: `flex`,
     }}
   >
-    <Heading as={as} sx={{ fontWeight: `medium`, fontSize: [4, 5], fontFamily: `heading` }} className={className}>
+    <Heading as={as} sx={{ fontWeight: `medium`, fontSize: [3, 4], fontFamily: `heading` }} className={className}>
       {text}
     </Heading>
     <div
