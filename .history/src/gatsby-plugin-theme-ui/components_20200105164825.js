@@ -2,7 +2,7 @@
 import React from "react"
 import { preToCodeBlock } from "mdx-utils"
 import { Text } from "@theme-ui/components"
-import Code from "../@lekoarts/gatsby-theme-minimal-blog/components/code"
+import Code from ""
 import Title from "../@lekoarts/gatsby-theme-minimal-blog/components/title"
 
 export default {
