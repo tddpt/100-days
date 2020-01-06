@@ -47,7 +47,7 @@ export default {
     ...tailwind.colors,
     text: `#A2405E`,
     primary: `#8C2F49`,
-    secondary: `#A2405E`,
+    secondary: ``,
     toggleIcon: `#8C2F49`,
     heading: `#8C2F49`,
     divide: `#8C2F49`,
@@ -56,7 +56,7 @@ export default {
       dark: {
         text: `#EEEEE9`,
         primary: `#C9C9C1`,
-        secondary: `#EEEEE9`,
+        secondary: `#FFFFFF`,
         toggleIcon: `#EEEEE9`,
         background: `#A2405E`,
         heading: `#C9C9C1`,

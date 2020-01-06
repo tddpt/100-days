@@ -22,11 +22,10 @@ const Footer = () => {
       }}
     >
       <div>
-        &copy; {new Date().getFullYear()} by {siteTitle}
+        &copy; {new Date().getFullYear()} by {siteTitle} 🇺🇸
       </div>
       <div>
-      🇺🇸
-      </div>
+       
     </footer>
   );
 };

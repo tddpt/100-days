@@ -56,7 +56,7 @@ export default {
       dark: {
         text: `#EEEEE9`,
         primary: `#C9C9C1`,
-        secondary: `#EEEEE9`,
+        secondary: `#EEEEE9``,
         toggleIcon: `#EEEEE9`,
         background: `#A2405E`,
         heading: `#C9C9C1`,
