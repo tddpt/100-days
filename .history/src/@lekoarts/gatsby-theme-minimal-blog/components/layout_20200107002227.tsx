@@ -6,7 +6,7 @@ import Header from "./header"
 import Footer from "./footer"
 import CodeStyles from "../@lekoarts/gatsby-theme-minimal-blog-core/styles/code"
 import SkipNavLink from "./skip-nav"
-import "./layout.css"
+import "./layout"
 
 type LayoutProps = { children: React.ReactNode; className?: string }
 

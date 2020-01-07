@@ -11,7 +11,9 @@ export default function HTML(props) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
-
+        <style>
+          
+        </style>
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Ubuntu|Ubuntu+Mono&display=swap" rel="stylesheet"></link>
         {props.headComponents}
       </head>
